@@ -1,11 +1,11 @@
 {
   "initial_bounds": [-40, 30, 32, 60],
-  "map_style": "./map-style-OSM.json",
+  "map_style": "map-style-OSM.json",
   "data": [
     {
       "name": "Montgomerie",
       "format": "RECOGITO_IMAGE",
-      "src": "./montgomerie.jsonld",
+      "src": "montgomerie.jsonld",
     }
   ],
 }
