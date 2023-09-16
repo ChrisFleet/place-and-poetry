@@ -1,0 +1,1459 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/893878e1-c7b8-44b1-97f5-b53201b1eea3",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/632227173",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:23+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:23+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 2.7487608, 39.5019494 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:23+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:23+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 2.7487608, 39.5019494 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7009,
+      "end" : 7015
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Majork"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3544dc2b-f768-4d34-9713-8365b7526d21",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/572631626",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:10+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 4.0044605, 39.9249126 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:10+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 4.0044605, 39.9249126 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6998,
+      "end" : 7004
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Minork"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4217a154-68d4-4f82-862c-7d0609e1bd62",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/991373",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:00+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:00+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 24.098086045787, 34.79810000931 ], [ 24.065803874001, 34.788915049421 ], [ 24.027364348772, 34.798958041791 ], [ 24.018310600616, 34.80623333075 ], [ 24.002380051895, 34.8190286296 ], [ 24.000380799095, 34.826261329541 ], [ 23.999457355347, 34.829601548279 ], [ 23.997044763314, 34.838326648608 ], [ 24.002348457819, 34.853433688973 ], [ 24.019712543746, 34.867251860385 ], [ 24.072740575655, 34.8652086222 ], [ 24.087541551883, 34.861987445472 ], [ 24.104900604972, 34.841380986955 ], [ 24.101491255163, 34.806751754809 ], [ 24.098086045787, 34.79810000931 ] ] ], [ [ [ 24.005774235576, 34.933715756918 ], [ 23.990398081473, 34.918775853345 ], [ 23.971214192708, 34.941787792736 ], [ 23.978555179722, 34.95271113441 ], [ 23.996011854684, 34.946949750013 ], [ 24.005774235576, 34.933715756918 ] ] ], [ [ [ 25.73458421816, 34.864421889237 ], [ 25.729984557576, 34.849217575465 ], [ 25.713076965521, 34.852626295815 ], [ 25.701584564485, 34.854941230234 ], [ 25.70002031323, 34.855256192744 ], [ 25.685899927225, 34.862059684759 ], [ 25.679366565713, 34.873914826107 ], [ 25.682621336043, 34.891867991557 ], [ 25.703475267711, 34.902249340723 ], [ 25.724267043787, 34.897637377492 ], [ 25.732993081923, 34.886820336704 ], [ 25.73458421816, 34.864421889237 ] ] ], [ [ [ 26.193320497958, 34.920935656571 ], [ 26.17720711213, 34.906196483599 ], [ 26.175584250243, 34.906517487236 ], [ 26.172972340359, 34.907034056808 ], [ 26.16116762593, 34.909367673052 ], [ 26.15707831574, 34.910175665105 ], [ 26.146126431611, 34.912338585418 ], [ 26.12911394257, 34.92938694064 ], [ 26.130769902701, 34.956616619725 ], [ 26.149274528144, 34.96959828279 ], [ 26.190832151921, 34.960157655794 ], [ 26.198881159897, 34.940838290563 ], [ 26.193320497958, 34.920935656571 ] ] ], [ [ [ 26.267300617509, 35.211394463519 ], [ 26.2938440133, 35.19571695641 ], [ 26.294016565642, 35.151658592563 ], [ 26.274674202311, 35.134063940612 ], [ 26.254558106622, 35.129021021901 ], [ 26.251559757122, 35.095328505973 ], [ 26.181874975524, 35.027333257759 ], [ 26.136514462837, 35.019075384989 ], [ 26.084444530633, 35.035665554795 ], [ 26.03784733319, 35.046179557217 ], [ 25.976254077832, 35.051795245141 ], [ 25.927934595816, 35.049588301105 ], [ 25.875108710357, 35.038753942134 ], [ 25.830218583874, 35.024066098597 ], [ 25.733787744042, 35.01737676187 ], [ 25.668322039621, 35.005807960941 ], [ 25.569089850418, 35.002996583699 ], [ 25.544463693242, 34.991271132784 ], [ 25.444277350044, 34.994565000323 ], [ 25.356800834744, 35.004708744185 ], [ 25.30534954818, 35.010389669763 ], [ 25.242462836483, 34.967162989549 ], [ 25.185788838595, 34.974589964573 ], [ 25.115898091384, 34.987549304122 ], [ 25.047358274574, 34.983740714194 ], [ 24.982064615806, 34.971667495738 ], [ 24.949779491822, 34.961435608238 ], [ 24.893786770542, 34.960320623572 ], [ 24.844867970741, 34.965879586486 ], [ 24.799202077038, 34.963206978161 ], [ 24.749381368207, 34.949768564612 ], [ 24.715491898925, 34.958246169802 ], [ 24.697318507356, 34.990748944595 ], [ 24.706502802648, 35.031193350406 ], [ 24.716989901975, 35.057019623155 ], [ 24.704425868751, 35.083572546687 ], [ 24.680251164214, 35.096827612244 ], [ 24.649745257884, 35.094990890082 ], [ 24.556020434494, 35.108189058309 ], [ 24.498407578586, 35.150857471717 ], [ 24.470842822261, 35.172259924286 ], [ 24.414272811512, 35.17502002465 ], [ 24.313245110917, 35.187517201014 ], [ 24.173996514038, 35.197400461422 ], [ 24.066490396025, 35.196580981765 ], [ 23.993981565864, 35.204317595982 ], [ 23.957941333898, 35.231314911954 ], [ 23.924419814903, 35.233232340561 ], [ 23.798601017737, 35.235044126878 ], [ 23.711617069071, 35.233127969259 ], [ 23.673992761724, 35.249389830424 ], [ 23.627500139718, 35.252375245064 ], [ 23.595301063187, 35.241638772132 ], [ 23.517814391801, 35.246532254859 ], [ 23.504179160956, 35.253953406518 ], [ 23.478495998928, 35.254173668344 ], [ 23.481388499479, 35.312274652551 ], [ 23.481650499818, 35.326102048463 ], [ 23.481661270138, 35.326670346112 ], [ 23.482147837416, 35.352334309011 ], [ 23.485459617859, 35.392587854362 ], [ 23.492927341138, 35.41840817021 ], [ 23.507331883968, 35.427886356562 ], [ 23.509021714302, 35.459605635656 ], [ 23.506742240907, 35.480505536669 ], [ 23.514913707048, 35.500062739864 ], [ 23.517293177562, 35.52551992402 ], [ 23.534285152914, 35.535184245827 ], [ 23.535765035871, 35.569008238426 ], [ 23.557665042739, 35.581132283064 ], [ 23.575809551384, 35.580335291825 ], [ 23.580853220492, 35.557518421147 ], [ 23.582884082844, 35.538700650814 ], [ 23.596574640242, 35.531258477502 ], [ 23.601789223656, 35.522354518495 ], [ 23.606045784303, 35.515084443512 ], [ 23.646960560965, 35.518014233017 ], [ 23.671199854113, 35.532381221026 ], [ 23.666524754297, 35.576295083461 ], [ 23.661619635402, 35.622308471594 ], [ 23.66083405865, 35.653868416401 ], [ 23.689592838189, 35.67487937125 ], [ 23.705518941654, 35.646495385174 ], [ 23.713174430777, 35.598564043114 ], [ 23.716049155904, 35.571374308415 ], [ 23.738290098459, 35.556085501771 ], [ 23.780333082761, 35.548498109774 ], [ 23.821930943365, 35.545073992713 ], [ 23.900423303239, 35.533634253545 ], [ 23.914072940017, 35.526143607129 ], [ 23.981232384679, 35.524390667252 ], [ 24.015791662809, 35.53935554685 ], [ 24.025857753093, 35.567410482061 ], [ 24.04021794464, 35.604180037099 ], [ 24.131142323286, 35.597575080201 ], [ 24.144276346377, 35.568953881873 ], [ 24.167431817813, 35.543097458037 ], [ 24.143892636189, 35.520496859814 ], [ 24.108276999448, 35.516041848048 ], [ 24.064783328711, 35.513153142224 ], [ 24.034922975499, 35.502734890432 ], [ 24.035970792007, 35.492277263645 ], [ 24.087951577767, 35.487323394777 ], [ 24.117529199589, 35.474546423004 ], [ 24.159055686558, 35.470966342454 ], [ 24.167439323589, 35.490462215527 ], [ 24.199155226215, 35.492534664542 ], [ 24.218279177308, 35.481148474294 ], [ 24.2368629533, 35.448676622232 ], [ 24.23908779141, 35.42567054293 ], [ 24.264901930901, 35.397878741308 ], [ 24.299704276699, 35.383284452034 ], [ 24.335453592219, 35.385569375488 ], [ 24.366873617818, 35.40650085387 ], [ 24.410892144959, 35.402966352667 ], [ 24.432696428766, 35.389607611041 ], [ 24.460986158675, 35.389270680623 ], [ 24.562473427827, 35.431295889126 ], [ 24.578463893555, 35.453310266678 ], [ 24.616066612491, 35.464008623093 ], [ 24.646572206632, 35.467952410854 ], [ 24.67801657201, 35.46142242209 ], [ 24.696852589916, 35.452027914284 ], [ 24.852129007949, 35.440109780197 ], [ 24.881158714142, 35.4312682723 ], [ 24.919336611646, 35.435559108299 ], [ 24.936171050139, 35.449137226118 ], [ 24.997915346405, 35.44842201997 ], [ 25.020478291997, 35.424452233869 ], [ 25.018337094892, 35.388587691975 ], [ 25.037270528346, 35.377031688264 ], [ 25.060959439894, 35.369941282921 ], [ 25.13658756882, 35.367802771176 ], [ 25.20574203389, 35.369455465976 ], [ 25.282235397344, 35.375647498507 ], [ 25.343572134148, 35.37887935886 ], [ 25.384790781123, 35.376823911928 ], [ 25.420909143011, 35.340864212242 ], [ 25.465130226356, 35.332624492114 ], [ 25.505840123358, 35.336792540963 ], [ 25.543063472097, 35.353373820782 ], [ 25.581237463786, 35.357379676563 ], [ 25.607961592692, 35.377614028458 ], [ 25.73909718734, 35.373485084496 ], [ 25.750962765992, 35.350942613352 ], [ 25.72720616888, 35.324595975309 ], [ 25.705120800497, 35.310928485758 ], [ 25.704749672722, 35.280454985557 ], [ 25.709108187766, 35.219766407821 ], [ 25.71405752017, 35.186412779458 ], [ 25.749269080153, 35.158716954712 ], [ 25.787921671667, 35.154263077156 ], [ 25.825693131246, 35.162344869952 ], [ 25.854671231515, 35.186792800797 ], [ 25.9163928372, 35.219042475912 ], [ 25.959606537596, 35.223118258852 ], [ 25.995033802035, 35.228921395229 ], [ 26.017294329247, 35.24041895396 ], [ 26.019148893572, 35.250999195733 ], [ 26.062668338594, 35.250838947725 ], [ 26.111563692523, 35.246694226716 ], [ 26.135747591375, 35.228856734586 ], [ 26.171463229641, 35.230403214748 ], [ 26.198462316197, 35.248355473667 ], [ 26.208036064535, 35.299149828282 ], [ 26.232390119184, 35.319082173735 ], [ 26.283493526057, 35.321232385347 ], [ 26.28263233198, 35.293901909814 ], [ 26.266062222052, 35.272213759292 ], [ 26.26062943162, 35.236300140254 ], [ 26.267300617509, 35.211394463519 ] ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5248,
+      "end" : 5253
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Creta"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/81f84fe4-57bd-41bc-8675-77fb8a80358b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2562770",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:20+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:20+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 14.547, 35.819 ], [ 14.547, 35.821 ], [ 14.547, 35.819 ], [ 14.547, 35.819 ] ] ], [ [ [ 14.338, 36.02 ], [ 14.349, 36.007 ], [ 14.324, 36.004 ], [ 14.323, 36.018 ], [ 14.338, 36.02 ] ] ], [ [ [ 14.321, 36.015 ], [ 14.323, 36.012 ], [ 14.318, 36.013 ], [ 14.317, 36.015 ], [ 14.321, 36.015 ] ] ], [ [ [ 14.274, 36.017 ], [ 14.189, 36.034 ], [ 14.185, 36.074 ], [ 14.336, 36.035 ], [ 14.274, 36.017 ] ] ], [ [ [ 14.497, 35.904 ], [ 14.575, 35.867 ], [ 14.562, 35.82 ], [ 14.38, 35.848 ], [ 14.319, 35.971 ], [ 14.368, 35.998 ], [ 14.353, 35.967 ], [ 14.497, 35.904 ] ] ], [ [ [ 14.497, 35.905 ], [ 14.505, 35.905 ], [ 14.508, 35.904 ], [ 14.504, 35.901 ], [ 14.497, 35.905 ] ] ], [ [ [ 14.407, 35.967 ], [ 14.408, 35.966 ], [ 14.399, 35.964 ], [ 14.4, 35.966 ], [ 14.407, 35.967 ] ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5336,
+      "end" : 5340
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Malt"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f67da6c2-6639-4022-b2cf-3b858f0551a1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2650225",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:20:15+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:20:15+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.19648, 55.95206 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2569,
+      "end" : 2584
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "this noble toun"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5a25b264-dc28-4485-95f7-ca2b8b8ed668",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/1224",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:18:26+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:18:26+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.7425505, 43.0786852 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2336,
+      "end" : 2346
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Pontus sea"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0ab91b00-267e-4856-af39-b374d96fc707",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/157878",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:36:52+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:36:52+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.9999997, 43.5000002 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:36:52+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:36:52+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.9999997, 43.5000002 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6982,
+      "end" : 6994
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "sea Liguscum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/11d69417-6016-401b-8bf8-ed20c2e529cb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/3042142",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:41:16+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:41:16+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ -2.035, 49.199 ], [ -2.234, 49.18 ], [ -2.259, 49.257 ], [ -2.1, 49.259 ], [ -2.028, 49.237 ], [ -2.035, 49.199 ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8977,
+      "end" : 8983
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Jarsay"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/36eab55c-316f-4add-b42e-4bcb1d72519a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/1224",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:01+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:01+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.7425505, 43.0786852 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4799,
+      "end" : 4813
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Pontus Euxinus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/8b34726b-246f-4be3-a3ed-2df7cd38b957",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2411586",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:38:06+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:38:06+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ -5.339, 36.153 ], [ -5.341, 36.119 ], [ -5.348, 36.109 ], [ -5.366, 36.144 ], [ -5.339, 36.153 ] ] ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:38:06+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:38:06+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ -5.339, 36.153 ], [ -5.341, 36.119 ], [ -5.348, 36.109 ], [ -5.366, 36.144 ], [ -5.339, 36.153 ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7075,
+      "end" : 7093
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Gebraltars straits"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7f116d00-7372-464e-ae00-f44fb2bc21f2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/1356",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:35:05+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:35:05+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.054731855281, 41.664198153878 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6789,
+      "end" : 6802
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Tyrrhenum sea"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/67a46cc5-d97f-4319-b098-ee5a9011f659",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/3042362",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:41:34+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:41:34+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ -2.363, 49.448 ], [ -2.345, 49.426 ], [ -2.378, 49.408 ], [ -2.377, 49.433 ], [ -2.363, 49.448 ] ] ], [ [ [ -2.516, 49.484 ], [ -2.536, 49.419 ], [ -2.673, 49.431 ], [ -2.548, 49.507 ], [ -2.516, 49.484 ] ] ], [ [ [ -2.175, 49.73 ], [ -2.158, 49.727 ], [ -2.234, 49.704 ], [ -2.22, 49.72 ], [ -2.175, 49.73 ] ] ], [ [ [ -2.447, 49.482 ], [ -2.443, 49.466 ], [ -2.451, 49.462 ], [ -2.457, 49.477 ], [ -2.447, 49.482 ] ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8988,
+      "end" : 8996
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Grinisay"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4f1f01d4-78f4-4fec-9e80-345a5ca63d8d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/3336899",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:38:47+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:38:47+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7367,
+      "end" : 7373
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Aragon"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5ed72909-e99b-4852-b1fb-91fc2b3bb373",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:37:43+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7066,
+      "end" : 7071
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Spane"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/eae930e1-89c1-4983-ae91-da3178bd5e5a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/462492",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:26+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:26+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:26+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:26+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5888,
+      "end" : 5894
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Sicill"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/847322c5-3099-4d32-ad01-f8929924059b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://geo-kima.org/place/9574",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:05+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:05+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5667,
+      "end" : 5673
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Sigeum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e490aec0-863b-42fc-a732-e274e19a928f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/745044",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:18:00+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:18:00+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.94966, 41.01384 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1421,
+      "end" : 1435
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Constantinopil"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7b3787ff-68aa-444a-b8ed-fb0bbdee9ce7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2638360",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:21:25+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:21:25+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3053,
+      "end" : 3061
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Scotland"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d105e27f-9c20-4759-9df2-eb1e69ac7ae1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/462492",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:57+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:57+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:57+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:57+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:57+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:28:57+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5345,
+      "end" : 5351
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Cicill"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f1d2aaee-2607-4ec0-9bae-025858beaedc",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/446207",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:24:22+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:24:22+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4577,
+      "end" : 4583
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Abydon"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6d27cdae-1f5c-4f35-8c01-fe35458f5687",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/79731",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:42:11+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:42:11+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.266667, 50.666667 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 9048,
+      "end" : 9060
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "yle of wight"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3331e7fb-c6f9-43e4-b55a-25b0ce6e689c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/69579",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:40:42+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:40:42+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -5.0956, 48.4581 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8936,
+      "end" : 8943
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Osshane"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ef83cb0d-128a-4227-bca1-9504e4de9c7b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/20487",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:40:01+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:40:01+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -7.427782985028, 53.273976815191 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8725,
+      "end" : 8732
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Ireland"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0a13f086-2259-4038-8424-ce4adad56fcf",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://geo-kima.org/place/3584",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:22:34+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:22:34+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4509,
+      "end" : 4519
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Hellespont"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f5392d9b-d56a-415d-8add-ba93bfa1549f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/501609",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:24:17+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:24:17+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.38916, 40.21343 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4563,
+      "end" : 4569
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Cestus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/75a00084-bfbd-4094-a4bb-c1ed1c73ca2c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/1043",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.115361734667, 36.580197929333 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.115361734667, 36.580197929333 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4823,
+      "end" : 4833
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Mediterran"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5fac5260-917f-4489-8304-2ad1d0c50bb2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/1043",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.115361734667, 36.580197929333 ]
+    }
+  }, {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:25:38+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.115361734667, 36.580197929333 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7023,
+      "end" : 7033
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Mediterran"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7bd6678b-a464-4c79-9a64-b95d5b9d6a61",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/1043",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:27:22+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:27:22+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.115361734667, 36.580197929333 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5143,
+      "end" : 5156
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Mediterraneum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0b5cf880-7b99-4a70-a43d-f3bb176ebb4b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://geo-kima.org/place/468",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:27:47+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:27:47+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.216666666, 36.433333333 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5168,
+      "end" : 5173
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Rhods"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3ca43444-4d21-486d-924d-8a0c7f14ad8b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://geo-kima.org/place/1409",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:43+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:33:43+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6008,
+      "end" : 6012
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Ætna"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d38d4619-1255-4691-b868-ee57d90ac002",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://pleiades.stoa.org/places/991344",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:35:13+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:35:13+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 8.419690349638, 38.930536236465 ], [ 8.395556156378, 38.924788010866 ], [ 8.391622932913, 38.929900210121 ], [ 8.388845222205, 38.933509934201 ], [ 8.375453572621, 38.950905847486 ], [ 8.358852708419, 38.993320884115 ], [ 8.324777118868, 39.021264798319 ], [ 8.31114068389, 39.064402732967 ], [ 8.3355735067, 39.077967265399 ], [ 8.379508012735, 39.075548226548 ], [ 8.422257336809, 39.067674794768 ], [ 8.438959949047, 39.05875859035 ], [ 8.455256118049, 39.008530231496 ], [ 8.452099464907, 38.974298142469 ], [ 8.448290964745, 38.950215015318 ], [ 8.419690349638, 38.930536236465 ] ] ], [ [ [ 8.253500156549, 39.081555633503 ], [ 8.248622337045, 39.080387458216 ], [ 8.219093476734, 39.096519593493 ], [ 8.199780691983, 39.120258309072 ], [ 8.241434499937, 39.14055879224 ], [ 8.289617950966, 39.144343117455 ], [ 8.315689304628, 39.145408416652 ], [ 8.31890573784, 39.120393040436 ], [ 8.289594689216, 39.091441021154 ], [ 8.287926037973, 39.089791728498 ], [ 8.271179102463, 39.085787020211 ], [ 8.253500156549, 39.081555633503 ] ] ], [ [ [ 9.736046548802, 40.879518264613 ], [ 9.731154327535, 40.878459388152 ], [ 9.723091137131, 40.899910272937 ], [ 9.741514277935, 40.932248554607 ], [ 9.77474054536, 40.934270197032 ], [ 9.781461653154, 40.925411784513 ], [ 9.768570164784, 40.893123167501 ], [ 9.765700392422, 40.885930440904 ], [ 9.736046548802, 40.879518264613 ] ] ], [ [ [ 8.316089795224, 41.010191263738 ], [ 8.275659905066, 41.008581379864 ], [ 8.250158349935, 41.020805304043 ], [ 8.246081517395, 41.056172607212 ], [ 8.283450567422, 41.090796748883 ], [ 8.305894507689, 41.111565876601 ], [ 8.335074536138, 41.115730106156 ], [ 8.376279593007, 41.107103474506 ], [ 8.388193559094, 41.060591242631 ], [ 8.363128872532, 41.054797069974 ], [ 8.341902018391, 41.039512039632 ], [ 8.32421167623, 41.019420961884 ], [ 8.321146242229, 41.015937820153 ], [ 8.316089795224, 41.010191263738 ] ] ], [ [ [ 9.4972146583, 41.199098254061 ], [ 9.481508562388, 41.177598245087 ], [ 9.467069284133, 41.1796093861 ], [ 9.465566972561, 41.185783965682 ], [ 9.461101832207, 41.204128245905 ], [ 9.463268324609, 41.225260652086 ], [ 9.485787717629, 41.237921079309 ], [ 9.516941548609, 41.236961613256 ], [ 9.512933014945, 41.220596979649 ], [ 9.4972146583, 41.199098254061 ] ] ], [ [ [ 9.433448234427, 41.231658800171 ], [ 9.420822584221, 41.228897411433 ], [ 9.416248105475, 41.240811562124 ], [ 9.417483429188, 41.264330107003 ], [ 9.441422029295, 41.264396206556 ], [ 9.440591545344, 41.248717211958 ], [ 9.433448234427, 41.231658800171 ] ] ], [ [ [ 9.418533827966, 41.145751380622 ], [ 9.435789263922, 41.118544853992 ], [ 9.46281511211, 41.119295425946 ], [ 9.494324144679, 41.126180053951 ], [ 9.510020591889, 41.147674925808 ], [ 9.540694440983, 41.13887129105 ], [ 9.564621856536, 41.120850921052 ], [ 9.574157847378, 41.086797989613 ], [ 9.561602405097, 41.066002882221 ], [ 9.567078833148, 41.033653032714 ], [ 9.611171270822, 41.025187540023 ], [ 9.655263630764, 40.99865223538 ], [ 9.656177520199, 40.978219939297 ], [ 9.616202757698, 40.966957443959 ], [ 9.558768801931, 40.938970509958 ], [ 9.575890864699, 40.91175471351 ], [ 9.63558667139, 40.90670397856 ], [ 9.676426935175, 40.897528677895 ], [ 9.688994547583, 40.864167223971 ], [ 9.708721092381, 40.847826695952 ], [ 9.719452952392, 40.783152897492 ], [ 9.735101694634, 40.750476119396 ], [ 9.784606403367, 40.645301980111 ], [ 9.790000676428, 40.612740124227 ], [ 9.80154816905, 40.581773173094 ], [ 9.819328255015, 40.552160278681 ], [ 9.820980159513, 40.49332245679 ], [ 9.810662075724, 40.457630785832 ], [ 9.782096063048, 40.407680622814 ], [ 9.717140810621, 40.347206676336 ], [ 9.673180977273, 40.293843813536 ], [ 9.658099784137, 40.280244811814 ], [ 9.661689146038, 40.216700982151 ], [ 9.693603074298, 40.185109104086 ], [ 9.712638863632, 40.142981543937 ], [ 9.725434341498, 40.063496879492 ], [ 9.717465824966, 40.030896693488 ], [ 9.703767882274, 40.00475133734 ], [ 9.703756134877, 39.914779540895 ], [ 9.69749525086, 39.868683177319 ], [ 9.696173987478, 39.827276492437 ], [ 9.679898933132, 39.790285049497 ], [ 9.671995401231, 39.757708519324 ], [ 9.675092903758, 39.704443016836 ], [ 9.661493871466, 39.678318002309 ], [ 9.670318130821, 39.582675420969 ], [ 9.647122084067, 39.54672179182 ], [ 9.649770661297, 39.521632347844 ], [ 9.641027025573, 39.50942200324 ], [ 9.645909462085, 39.433489435769 ], [ 9.626679231274, 39.431782369084 ], [ 9.621462956977, 39.410086057658 ], [ 9.595768034318, 39.363293176825 ], [ 9.608127410613, 39.276225853934 ], [ 9.566391927129, 39.228412458216 ], [ 9.553833401369, 39.1999420745 ], [ 9.569599556238, 39.15729150131 ], [ 9.566221470317, 39.11292658644 ], [ 9.524997700408, 39.090851746987 ], [ 9.495830075153, 39.107384639409 ], [ 9.437607439471, 39.104533031604 ], [ 9.400171177939, 39.116611775202 ], [ 9.360846022303, 39.151357987941 ], [ 9.312347525395, 39.1840225642 ], [ 9.271790470167, 39.195363205596 ], [ 9.216160767017, 39.185272558353 ], [ 9.168414143849, 39.171807081726 ], [ 9.103712313775, 39.159566695944 ], [ 9.061190828118, 39.149805553461 ], [ 9.028345651055, 39.131967407188 ], [ 9.01663417453, 39.093280783656 ], [ 9.030294957141, 39.039885659117 ], [ 9.041934855889, 39.00916270413 ], [ 9.024527653831, 38.976883352875 ], [ 8.989327431119, 38.948193850798 ], [ 8.963232426224, 38.92159591796 ], [ 8.920912530109, 38.911778825081 ], [ 8.870123809826, 38.88968647507 ], [ 8.823294961229, 38.865913162404 ], [ 8.790427198547, 38.891653991724 ], [ 8.774425806854, 38.890482172428 ], [ 8.75329190496, 38.885533734249 ], [ 8.726726121644, 38.89473622758 ], [ 8.716762857624, 38.894970588073 ], [ 8.716127841218, 38.894575619524 ], [ 8.615358853668, 38.876255339792 ], [ 8.591661354029, 38.937568496458 ], [ 8.562860878884, 38.969377579162 ], [ 8.54850195522, 39.014901084341 ], [ 8.518720992565, 39.049063490847 ], [ 8.45799202747, 39.08620255418 ], [ 8.398620716845, 39.13653497654 ], [ 8.379207483279, 39.186054608084 ], [ 8.378374108983, 39.221951374304 ], [ 8.39641350637, 39.252017072262 ], [ 8.397957210781, 39.298797876176 ], [ 8.383382095918, 39.344345079147 ], [ 8.375120310862, 39.399138155671 ], [ 8.395329325095, 39.432302049386 ], [ 8.428532491036, 39.491748061536 ], [ 8.448409077228, 39.542878073758 ], [ 8.468712619484, 39.576041413223 ], [ 8.452927138525, 39.616196980817 ], [ 8.443896472783, 39.647624917587 ], [ 8.432854649936, 39.709564193142 ], [ 8.444957878689, 39.738228040413 ], [ 8.477159152119, 39.732880474724 ], [ 8.504267739188, 39.697938768372 ], [ 8.523275863957, 39.692069759992 ], [ 8.52929963639, 39.719287762584 ], [ 8.518161442939, 39.747652554642 ], [ 8.538579990152, 39.780822222448 ], [ 8.539325928586, 39.813005330754 ], [ 8.530401243182, 39.903869244245 ], [ 8.49876483866, 39.899060992818 ], [ 8.46340034375, 39.903699744468 ], [ 8.440978056621, 39.901028654339 ], [ 8.421100115695, 39.883448717518 ], [ 8.391717170263, 39.915301591492 ], [ 8.386970142975, 39.986544042425 ], [ 8.391183464577, 40.052151222293 ], [ 8.426239846348, 40.065534277743 ], [ 8.459979238239, 40.09926952658 ], [ 8.467890156894, 40.121793740205 ], [ 8.448600408972, 40.212943354103 ], [ 8.471964379364, 40.239074646098 ], [ 8.49750234762, 40.2682882736 ], [ 8.487177515851, 40.294329561571 ], [ 8.443765326414, 40.310084710297 ], [ 8.407720173657, 40.332720019827 ], [ 8.375943589565, 40.361522488988 ], [ 8.365458971715, 40.447063820887 ], [ 8.355986912831, 40.470737182541 ], [ 8.340814864909, 40.50861603265 ], [ 8.332271513383, 40.529923675679 ], [ 8.308453743292, 40.555433876655 ], [ 8.286023675104, 40.560548742504 ], [ 8.273608543934, 40.557643333591 ], [ 8.233989002136, 40.571674312985 ], [ 8.220857547743, 40.578957322425 ], [ 8.189820412273, 40.571669293212 ], [ 8.175261850208, 40.565655328924 ], [ 8.155381244998, 40.581191173132 ], [ 8.139082995188, 40.621416478892 ], [ 8.149314114632, 40.654929922995 ], [ 8.152837680331, 40.705014089919 ], [ 8.135539497038, 40.747620438874 ], [ 8.189105808467, 40.884657871918 ], [ 8.198942192499, 40.902518948755 ], [ 8.197476393113, 40.956645162013 ], [ 8.227769159332, 40.96630818024 ], [ 8.26142187075, 40.950808510669 ], [ 8.258520039063, 40.924201352251 ], [ 8.277942553108, 40.884647940929 ], [ 8.318223914854, 40.852546881825 ], [ 8.361402987691, 40.847028180337 ], [ 8.412034348744, 40.848399404006 ], [ 8.456412105175, 40.788726289857 ], [ 8.512285623328, 40.793857084442 ], [ 8.570924261054, 40.817710403876 ], [ 8.617764299311, 40.828460684964 ], [ 8.642066540229, 40.870265039051 ], [ 8.691764643006, 40.899738062853 ], [ 8.744956582184, 40.911855992828 ], [ 8.802239073519, 40.922280264224 ], [ 8.827289228295, 40.927958029236 ], [ 8.837666482475, 40.953590434482 ], [ 8.840240980294, 40.99039303343 ], [ 8.891422231688, 41.025233566202 ], [ 8.991416151477, 41.083923354519 ], [ 9.124581219645, 41.136927836403 ], [ 9.150508040701, 41.15820172616 ], [ 9.154500706687, 41.183131358248 ], [ 9.146361103257, 41.230451119701 ], [ 9.168086680566, 41.271468544292 ], [ 9.2154282724, 41.2819403486 ], [ 9.244913387877, 41.267767990333 ], [ 9.27675551385, 41.238602595708 ], [ 9.332079131583, 41.201683250953 ], [ 9.393633115509, 41.166118858984 ], [ 9.418533827966, 41.145751380622 ] ] ], [ [ [ 9.32172968097, 41.264006441596 ], [ 9.309102232539, 41.261230214127 ], [ 9.303749338646, 41.267066133918 ], [ 9.302252067743, 41.26869825536 ], [ 9.297265631448, 41.274132978688 ], [ 9.305292957292, 41.288821300906 ], [ 9.326604133049, 41.27799865596 ], [ 9.32172968097, 41.264006441596 ] ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6838,
+      "end" : 6846
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Sardinia"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/215528eb-f008-49a0-8f22-33cb9e2386ca",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/3023519",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:35:18+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:35:18+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6860,
+      "end" : 6867
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Corsica"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/16151e82-9fc8-4ce0-bc18-4ab697f3c64e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2650225",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:50:03+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:50:03+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.19648, 55.95206 ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10770,
+      "end" : 10784
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Porte of Leith"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7de82a4e-1d92-4748-9bd3-cfde5c5c8260",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2023-09-16T05:52:03+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://sws.geonames.org/2264397",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:39:29+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/SebMacV",
+    "modified" : "2023-03-29T09:39:29+00:00",
+    "purpose" : "georeferencing",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ -16.029, 30.034 ], [ -16.038, 30.037 ], [ -16.034, 30.038 ], [ -16.029, 30.034 ] ] ], [ [ [ -15.872, 30.142 ], [ -15.873, 30.155 ], [ -15.863, 30.156 ], [ -15.857, 30.14 ], [ -15.872, 30.142 ] ] ], [ [ [ -16.493, 32.446 ], [ -16.491, 32.464 ], [ -16.463, 32.404 ], [ -16.479, 32.411 ], [ -16.493, 32.446 ] ] ], [ [ [ -16.494, 32.481 ], [ -16.537, 32.541 ], [ -16.54, 32.573 ], [ -16.5, 32.52 ], [ -16.494, 32.481 ] ] ], [ [ [ -16.541, 32.577 ], [ -16.547, 32.59 ], [ -16.543, 32.589 ], [ -16.541, 32.577 ] ] ], [ [ [ -16.382, 32.996 ], [ -16.394, 33.006 ], [ -16.383, 33.021 ], [ -16.382, 32.996 ] ] ], [ [ [ -16.667, 32.73 ], [ -16.679, 32.738 ], [ -16.662, 32.73 ], [ -16.667, 32.73 ] ] ], [ [ [ -17.201, 32.732 ], [ -17.266, 32.814 ], [ -17.194, 32.871 ], [ -17.052, 32.808 ], [ -16.904, 32.838 ], [ -16.822, 32.768 ], [ -16.691, 32.753 ], [ -16.679, 32.739 ], [ -16.746, 32.735 ], [ -16.831, 32.64 ], [ -16.944, 32.633 ], [ -17.201, 32.732 ] ] ], [ [ [ -16.281, 33.052 ], [ -16.289, 33.058 ], [ -16.278, 33.056 ], [ -16.281, 33.052 ] ] ], [ [ [ -16.393, 33.043 ], [ -16.354, 33.093 ], [ -16.294, 33.099 ], [ -16.293, 33.06 ], [ -16.393, 33.043 ] ] ], [ [ [ -16.278, 33.117 ], [ -16.275, 33.114 ], [ -16.282, 33.112 ], [ -16.278, 33.117 ] ] ], [ [ [ -16.409, 33.035 ], [ -16.41, 33.042 ], [ -16.402, 33.039 ], [ -16.409, 33.035 ] ] ], [ [ [ -31.114, 39.669 ], [ -31.129, 39.702 ], [ -31.106, 39.726 ], [ -31.083, 39.699 ], [ -31.114, 39.669 ] ] ], [ [ [ -9.505, 39.42 ], [ -9.504, 39.414 ], [ -9.517, 39.41 ], [ -9.512, 39.419 ], [ -9.505, 39.42 ] ] ], [ [ [ -31.231, 39.371 ], [ -31.269, 39.452 ], [ -31.209, 39.525 ], [ -31.124, 39.455 ], [ -31.169, 39.378 ], [ -31.231, 39.371 ] ] ], [ [ [ -7.836, 36.987 ], [ -7.932, 36.97 ], [ -8.181, 37.09 ], [ -8.602, 37.123 ], [ -8.948, 36.993 ], [ -8.997, 37.022 ], [ -8.796, 37.443 ], [ -8.799, 37.905 ], [ -8.89, 37.95 ], [ -8.786, 38.157 ], [ -8.788, 38.338 ], [ -8.918, 38.511 ], [ -9.223, 38.414 ], [ -9.183, 38.528 ], [ -9.263, 38.663 ], [ -9.146, 38.688 ], [ -9.1, 38.648 ], [ -9.018, 38.756 ], [ -8.987, 38.751 ], [ -8.954, 38.76 ], [ -9.01, 38.765 ], [ -8.954, 38.785 ], [ -8.988, 38.792 ], [ -8.968, 38.828 ], [ -8.996, 38.793 ], [ -9.028, 38.859 ], [ -9.126, 38.71 ], [ -9.324, 38.673 ], [ -9.477, 38.702 ], [ -9.501, 38.781 ], [ -9.34, 39.226 ], [ -9.361, 39.34 ], [ -9.409, 39.36 ], [ -9.262, 39.41 ], [ -9.075, 39.592 ], [ -8.865, 40.123 ], [ -8.909, 40.187 ], [ -8.651, 40.971 ], [ -8.668, 41.141 ], [ -8.881, 41.75 ], [ -8.872, 41.864 ], [ -8.636, 42.048 ], [ -8.332, 42.084 ], [ -8.199, 42.154 ], [ -8.182, 42.065 ], [ -8.084, 42.047 ], [ -8.217, 41.913 ], [ -8.165, 41.818 ], [ -8.014, 41.829 ], [ -7.906, 41.927 ], [ -7.873, 41.845 ], [ -7.701, 41.908 ], [ -7.586, 41.882 ], [ -7.611, 41.829 ], [ -7.452, 41.865 ], [ -7.428, 41.807 ], [ -7.197, 41.88 ], [ -7.185, 41.972 ], [ -7.141, 41.991 ], [ -6.893, 41.94 ], [ -6.822, 41.946 ], [ -6.811, 41.993 ], [ -6.7, 41.933 ], [ -6.588, 41.968 ], [ -6.547, 41.939 ], [ -6.571, 41.883 ], [ -6.516, 41.872 ], [ -6.569, 41.744 ], [ -6.548, 41.686 ], [ -6.302, 41.662 ], [ -6.189, 41.575 ], [ -6.318, 41.386 ], [ -6.39, 41.385 ], [ -6.496, 41.266 ], [ -6.648, 41.248 ], [ -6.809, 41.036 ], [ -6.931, 41.029 ], [ -6.802, 40.861 ], [ -6.831, 40.753 ], [ -6.794, 40.661 ], [ -6.845, 40.566 ], [ -6.795, 40.511 ], [ -6.85, 40.452 ], [ -6.781, 40.365 ], [ -6.868, 40.264 ], [ -6.999, 40.235 ], [ -7.03, 40.186 ], [ -6.864, 40.012 ], [ -6.904, 39.871 ], [ -6.987, 39.81 ], [ -7.016, 39.67 ], [ -7.542, 39.664 ], [ -7.294, 39.457 ], [ -7.323, 39.381 ], [ -7.231, 39.278 ], [ -7.241, 39.208 ], [ -7.135, 39.171 ], [ -7.144, 39.109 ], [ -7.033, 39.117 ], [ -6.959, 39.054 ], [ -7.039, 38.865 ], [ -7.259, 38.724 ], [ -7.244, 38.624 ], [ -7.336, 38.436 ], [ -7.085, 38.169 ], [ -6.931, 38.208 ], [ -7.002, 38.022 ], [ -7.099, 38.044 ], [ -7.262, 37.98 ], [ -7.284, 37.869 ], [ -7.421, 37.759 ], [ -7.504, 37.605 ], [ -7.523, 37.553 ], [ -7.464, 37.487 ], [ -7.393, 37.166 ], [ -7.573, 37.141 ], [ -7.836, 36.987 ] ], [ [ -8.768, 41.372 ], [ -8.763, 41.372 ], [ -8.768, 41.372 ], [ -8.768, 41.372 ] ] ], [ [ [ -8.846, 41.682 ], [ -8.844, 41.674 ], [ -8.847, 41.682 ], [ -8.846, 41.682 ] ] ], [ [ [ -27.05, 38.713 ], [ -27.048, 38.721 ], [ -27.05, 38.713 ], [ -27.05, 38.713 ] ] ], [ [ [ -27.943, 39.011 ], [ -27.933, 39.008 ], [ -27.94, 39.006 ], [ -27.943, 39.011 ] ] ], [ [ [ -27.949, 39.021 ], [ -28.035, 39.023 ], [ -28.071, 39.071 ], [ -27.996, 39.088 ], [ -27.949, 39.021 ] ] ], [ [ [ -25.678, 37.734 ], [ -25.841, 37.828 ], [ -25.821, 37.9 ], [ -25.584, 37.814 ], [ -25.317, 37.867 ], [ -25.135, 37.824 ], [ -25.204, 37.735 ], [ -25.678, 37.734 ] ] ], [ [ [ -25.838, 37.886 ], [ -25.837, 37.882 ], [ -25.841, 37.882 ], [ -25.838, 37.886 ] ] ], [ [ [ -28.066, 38.444 ], [ -28.029, 38.412 ], [ -28.24, 38.382 ], [ -28.446, 38.421 ], [ -28.542, 38.51 ], [ -28.393, 38.559 ], [ -28.066, 38.444 ] ] ], [ [ [ -28.626, 38.534 ], [ -28.753, 38.522 ], [ -28.835, 38.603 ], [ -28.686, 38.639 ], [ -28.598, 38.594 ], [ -28.626, 38.534 ] ] ], [ [ [ -27.218, 38.654 ], [ -27.351, 38.687 ], [ -27.377, 38.767 ], [ -27.2, 38.801 ], [ -27.044, 38.736 ], [ -27.077, 38.644 ], [ -27.218, 38.654 ] ] ], [ [ [ -27.813, 38.577 ], [ -27.752, 38.548 ], [ -28.025, 38.601 ], [ -28.318, 38.756 ], [ -27.813, 38.577 ] ] ], [ [ [ -25.046, 36.984 ], [ -25.015, 36.929 ], [ -25.158, 36.94 ], [ -25.186, 36.985 ], [ -25.089, 37.018 ], [ -25.046, 36.984 ] ] ] ]
+    }
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/4969663d-cc21-4dbd-b722-0d3008dda309",
+    "type" : "Text",
+    "label" : "Montgomerie, The Navigatioun.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8137,
+      "end" : 8148
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Portingaill"
+    } ]
+  }
+} ]
