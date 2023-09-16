@@ -5,7 +5,7 @@
     {
       "name": "Montgomerie",
       "format": "RECOGITO_IMAGE",
-      "src": "data/Montgomerie.jsonld",
+      "src": "data/montgomerie.jsonld",
       "attribution"
     }
   ],
